@@ -1,0 +1,45 @@
+# Churn-Analysis
+Churn Analysis Report
+1. Introduction
+Objective: This report aims to analyze the customer churn rates and identify key factors influencing churn based on the provided data visualization.
+Data Overview: The data includes information on total customers, churned customers, churn rates, and various factors contributing to churn.
+2. Key Metrics
+Total Number of Customers: 2,193
+Number of Churned Customers: 353
+Churn Rate: 16.10%
+3. Analysis of Churn Reasons
+Top Reasons for Churn:
+Competitor made a better offer
+Attitude of support
+Competitor had better quality
+Long distance charges
+Competitor offered lower price
+Insights: Competitor actions (better offers, quality, and pricing) are the leading factors influencing customer churn.
+4. Churners by Category
+Categories of Churn Reasons:
+
+Competitor (largest factor)
+Attitude
+Dissatisfaction
+Price
+Other
+Insights: Competitor actions and service attitudes play a significant role in customer decisions to leave.
+
+5. Customers by Contract Type
+Distribution by Contract Type:
+Month-to-Month: Largest group
+One Year
+Two Year
+Insights: Customers on month-to-month contracts are more likely to churn compared to those on longer contracts.
+6. Churn by State
+Geographical Distribution:
+The map indicates churn distribution across different states, highlighting areas with higher churn rates.
+Insights: Focus on states with higher churn rates for targeted retention strategies.
+7. Recommendations
+Enhance Customer Retention Strategies:
+Improve customer support and service attitudes.
+Offer competitive pricing and match competitor offers.
+Introduce loyalty programs for month-to-month contract customers to encourage longer commitments.
+Targeted Marketing Campaigns:
+Focus marketing efforts on states with higher churn rates.
+Use personalized offers to retain customers who are at risk of leaving due to competitor actions.
